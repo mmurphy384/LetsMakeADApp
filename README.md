@@ -8,4 +8,5 @@ I'll be recorinding a series of webinars on SteemIt / D.Tube to cover the tasks 
 If you'd like to join in the fun, fork this repo and create a SteemIt account at SteemIt.com.  Then, just find my videos there and subscribe. My username is mmurphy
 
 # Episodes
-  * Episode 1 - Intro - Questions you should ask yourself before building a Dapp
+  * Episode 1 - Intro - Questions you should ask yourself before building a Dapp 
+  https://d.tube/#!/v/mmurphy/m92dtqo8
