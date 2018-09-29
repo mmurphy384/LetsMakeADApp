@@ -5,8 +5,8 @@ This will be a SteemIt based tutorial on creating a DApp in Pirl or Ethereum or 
 # Pre-Requisites
 I'll be recorinding a series of webinars on PirlTV to cover the tasks of creating a simple DApp on Ethereum or Pirl or some other Ethereum-based variant.
 
-If you'd like to join in the fun, fork this repo and create a SteemIt account at SteemIt.com.  Then, just find my videos there and subscribe. My username is mmurphy
+If you'd like to join in the fun, fork this repo and play along.  Then, just find my videos there and subscribe. My username is mmurphy384
 
 # Episodes
   * Episode 1 - Intro - Questions you should ask yourself before building a Dapp 
-  https://d.tube/#!/v/mmurphy/m92dtqo8
+
