@@ -9,4 +9,5 @@ If you'd like to join in the fun, fork this repo and play along.  Then, just fin
 
 # Episodes
   * Episode 1 - Intro - Questions you should ask yourself before building a Dapp 
+  * Episode 2 - Let's Dive In - We'll review an idea and talk about high level architecture
 
